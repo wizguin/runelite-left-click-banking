@@ -24,7 +24,8 @@ import java.util.Objects;
 @Slf4j
 @PluginDescriptor(
 	name = "Left Click Banking",
-	description = "Left click menu entry swapping for bank deposit/withdraw interfaces"
+	description = "Left click menu entry swapping for bank deposit/withdraw interfaces",
+	tags = {"bank", "items", "inventory", "menu", "entry", "swap", "left", "click"}
 )
 public class LeftClickBankingPlugin extends Plugin
 {
